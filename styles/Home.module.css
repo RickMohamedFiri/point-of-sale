@@ -6,7 +6,7 @@
   justify-content: flex-end;
   color: #a3a2a2;
   overflow: hidden;
-  background: #000521;
+  background: #00020a;
 }
 
 .input
@@ -57,7 +57,7 @@
 
 .menuitem:hover
 {
-  color: #fff;
+  color: orangered;
   background: #333;
 }
 
@@ -104,6 +104,8 @@
   cursor: pointer;
   background:#313131;
 }
+
+
 
 
 .cart
