@@ -47,7 +47,9 @@
 
 .menuitem
 {
-  list-style-type: none;
+  text-decoration: none;
+  list-style: none;
+  color: #999;
   width: 100%;
   border-radius: .4rem;
   font-size: 1.3rem;
@@ -68,6 +70,7 @@
   margin-left: auto;
   padding: 1rem 1rem;
   gap: 1rem;
+  min-width:45rem;
 }
 
 .items h2
